@@ -19,7 +19,7 @@
 
 1. Fork/Clone this repo
 
-1. Download [Docker](https://docs.docker.com/docker-for-mac/install/) (if necessary)
+1. Download Docker (if necessary)
 
 1. Make sure you are using a Docker version >= 17:
 
